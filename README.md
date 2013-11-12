@@ -3,6 +3,8 @@ psychic-wallhack
 
 Yet another commit!
 
+Updating readme!
+
 
 changes!!!!
 
