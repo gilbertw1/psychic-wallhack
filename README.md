@@ -3,6 +3,8 @@ psychic-wallhack
 
 Yet another commit!
 
+another change!!
+
 Updating readme!
 
 sdfdsfsdfs
@@ -10,11 +12,6 @@ sdfdsfsdfs
 changes!!!!
 
 This is a test repository and will be deleted at some point in the future
-
-a change!
-
-changes
-anthljer!!
 
 more!!!
 sdfdfsdfsdf
